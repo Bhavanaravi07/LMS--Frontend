@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LibraryManagementSystem"
+    }
+  },
+  "defaultProject": "LibraryManagementSystem",
+  "cli": {
+    "analytics": "1229f556-9712-458a-b8b1-0414a5734631"
+  }
 }
